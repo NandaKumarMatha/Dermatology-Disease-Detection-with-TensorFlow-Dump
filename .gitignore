@@ -1,0 +1,4 @@
+# Don't track content of these folders
+images/
+models/
+training/
