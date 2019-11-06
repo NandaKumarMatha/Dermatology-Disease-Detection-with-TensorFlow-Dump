@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>25.jpg</filename>
+	<path>/content/Project/images/train/train/25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Actinic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>53</ymin>
+			<xmax>78</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1322.jpg</filename>
+	<path>/content/Project/images/train/train/1322.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nail Fungal Infection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>91</ymin>
+			<xmax>44</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nail Fungal Infection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>82</ymin>
+			<xmax>63</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>

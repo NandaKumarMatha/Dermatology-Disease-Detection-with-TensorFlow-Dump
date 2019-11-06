@@ -1,0 +1,114 @@
+item {
+    id: 1
+    name: 'Actinic'
+}
+
+item {
+    id: 2
+    name: 'Bacterial Infection'
+}
+
+item {
+    id: 3
+    name: 'Bowen'
+}
+
+item {
+    id: 4
+    name: 'Carbuncle'
+}
+
+item {
+    id: 5
+    name: 'Carcinoma'
+}
+
+item {
+    id: 6
+    name: 'Cellulitis'
+}
+
+item {
+    id: 7
+    name: 'Chickenpox'
+}
+
+item {
+    id: 8
+    name: 'Cold Sore'
+}
+
+item {
+    id: 9
+    name: 'Dystrophic Bullosa'
+}
+
+item {
+    id: 10
+    name: 'Herpes Virus'
+}
+
+item {
+    id: 11
+    name: 'Hives'
+}
+
+item {
+    id: 12
+    name: 'Impetigo'
+}
+
+item {
+    id: 13
+    name: 'Keloids'
+}
+
+item {
+    id: 14
+    name: 'Measles'
+}
+
+item {
+    id: 15
+    name: 'Melanoma'
+}
+
+item {
+    id: 16
+    name: 'Nail Fungal Infection'
+}
+
+item {
+    id: 17
+    name: 'Nail Infection'
+}
+
+item {
+    id: 18
+    name: 'Pemphigoid'
+}
+
+item {
+    id: 19
+    name: 'Pityriasis Rubra Pilaris'
+}
+
+item {
+    id: 20
+    name: 'Psoriasis'
+}
+
+item {
+    id: 21
+    name: 'Pyoderma Gangrenosum'
+}
+
+item {
+    id: 22
+    name: 'Squamous Carcinoma'
+}
+
+item {
+    id: 23
+    name: 'Wart'
+}

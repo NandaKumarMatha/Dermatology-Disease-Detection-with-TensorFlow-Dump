@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>153.jpg</filename>
+	<path>/content/Project/images/test/153.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>296</width>
+		<height>170</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Herpes Virus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>50</ymin>
+			<xmax>191</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

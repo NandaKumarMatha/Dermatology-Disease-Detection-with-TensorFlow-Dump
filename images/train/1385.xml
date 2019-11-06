@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1385.jpg</filename>
+	<path>/content/Project/images/train/train/1385.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Herpes Virus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>14</ymin>
+			<xmax>110</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Herpes Virus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>96</ymin>
+			<xmax>33</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

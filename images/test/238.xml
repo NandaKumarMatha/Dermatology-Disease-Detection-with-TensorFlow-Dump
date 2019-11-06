@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>238.jpg</filename>
+	<path>/content/Project/images/test/238.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Squamous Carcinoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>143</ymin>
+			<xmax>280</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

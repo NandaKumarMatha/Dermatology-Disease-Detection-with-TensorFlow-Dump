@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>52.jpg</filename>
+	<path>/content/Project/images/test/52.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bacterial Infection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>34</ymin>
+			<xmax>63</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bacterial Infection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>91</ymin>
+			<xmax>70</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

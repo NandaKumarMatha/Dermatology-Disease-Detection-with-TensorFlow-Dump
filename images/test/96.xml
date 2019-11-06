@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>96.jpg</filename>
+	<path>/content/Project/images/test/96.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>326</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carbuncle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>36</ymin>
+			<xmax>351</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

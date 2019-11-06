@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1248.jpg</filename>
+	<path>/content/Project/images/train/train/1248.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dystrophic Bullosa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>22</ymin>
+			<xmax>118</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

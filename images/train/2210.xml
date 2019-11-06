@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2210.jpg</filename>
+	<path>/content/Project/images/train/train/2210.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pityriasis Rubra Pilaris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>9</ymin>
+			<xmax>124</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pityriasis Rubra Pilaris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>84</ymin>
+			<xmax>119</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pityriasis Rubra Pilaris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>107</ymin>
+			<xmax>68</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

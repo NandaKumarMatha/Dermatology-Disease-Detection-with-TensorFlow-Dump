@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>596.jpeg</filename>
+	<path>/content/Project/images/train/train/596.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bowen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>46</ymin>
+			<xmax>70</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2398.jpg</filename>
+	<path>/content/Project/images/train/train/2398.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pyoderma Gangrenosum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>20</ymin>
+			<xmax>126</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>

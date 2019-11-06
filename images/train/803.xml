@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>803.jpg</filename>
+	<path>/content/Project/images/train/train/803.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cellulitis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>9</ymin>
+			<xmax>120</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

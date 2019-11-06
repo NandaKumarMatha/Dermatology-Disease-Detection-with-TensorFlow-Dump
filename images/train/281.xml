@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>281.jpg</filename>
+	<path>/content/Project/images/train/train/281.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carcinoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>50</ymin>
+			<xmax>78</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>

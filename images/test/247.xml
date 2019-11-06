@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>247.jpg</filename>
+	<path>/content/Project/images/test/247.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1296</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>677</xmin>
+			<ymin>182</ymin>
+			<xmax>940</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>132.jpg</filename>
+	<path>/content/Project/images/test/132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>131</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dystrophic Bullosa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>42</ymin>
+			<xmax>141</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>

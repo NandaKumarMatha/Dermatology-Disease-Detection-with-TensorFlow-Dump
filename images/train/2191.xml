@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2191.jpg</filename>
+	<path>/content/Project/images/train/train/2191.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pemphigoid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>5</ymin>
+			<xmax>118</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

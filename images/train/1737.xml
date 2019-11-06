@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1737.jpg</filename>
+	<path>/content/Project/images/train/train/1737.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Measles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>23</ymin>
+			<xmax>125</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>
