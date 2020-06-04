@@ -145,12 +145,13 @@ def handle_request():
             line_thickness=8)
         plt.figure(figsize=IMAGE_SIZE)
         plt.axis("off") #removes axis for image
-#         plt.imsave('res.png', image_np)     #save predections
+        plt.imsave('res.png', image_np)     #save predections
+        return 'done processing response saved...'
         
-        return Image.Image.fromarray(image_np)
+#         return Image.Image.fromarray(image_np)
 #         return send_file(io.BytesIO(image_np), mimetype='image/png')
 #         return plt.imshow(image_np)
 
 
 
-app.run(host="0.0.0.0", port=5000, debug=True)
+app.run(host="127.0.0.1", port=5000, debug=True)
